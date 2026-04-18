@@ -113,14 +113,14 @@ Manejaba un negocio sin herramientas de software. Identificar esta brecha y cons
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranciscoGH&show_icons=true&theme=dark)
 
 ---
 
 ## 🤝 Conecta conmigo
 
-- 📧 **Email:** tu.email@ejemplo.com
-- 🔗 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+- 📧 **Email:** crjose92@gmail.com
+- 🔗 **LinkedIn:** (https://www.linkedin.com/in/franciscogh-/)
 - 🐙 **GitHub:** Estás aquí 👈
 - 💼 **Portafolio:** [tu-sitio-web.com](https://tu-sitio-web.com) *(opcional)*
 
