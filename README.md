@@ -119,10 +119,10 @@ Manejaba un negocio sin herramientas de software. Identificar esta brecha y cons
 
 ## 🤝 Conecta conmigo
 
-- 📧 [**Email:**] crjose92@gmail.com
-- 🔗 [**LinkedIn:**] (https://www.linkedin.com/in/franciscogh-/)
+- 📧 [**Email:**](crjose92@gmail.com)
+- 🔗 [**LinkedIn:**](https://www.linkedin.com/in/franciscogh-/)
 - 🐙 **GitHub:** Estás aquí 👈
-- 💼 [**Portafolio:**] [tu-sitio-web.com](https://tu-sitio-web.com) *(opcional)
+- 💼 [**Portafolio:**](https://tu-sitio-web.com) *(opcional)
 
 ---
 
