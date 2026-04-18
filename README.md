@@ -49,7 +49,7 @@ Aplicación web para control de inventario y operaciones del negocio:
 
 ## 📬 Conecta conmigo
 - 📧 crjose92@gmail.com
-- 🔗 [Ver repositorio](#) https://www.linkedin.com/in/jose-francisco-gomez-herrera-436b9794/
+- 🔗 [Ver repositorio](https://www.linkedin.com/in/jose-francisco-gomez-herrera-436b9794/)
 
 ---
 *"El mejor código es el que resuelve un problema real"*
