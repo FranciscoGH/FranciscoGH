@@ -23,7 +23,7 @@ Una aplicación integral para gestionar proyectos de auditoría con:
 - 🔎 **Buscador de vulnerabilidades** con información de CVEs
 - 🤖 **Asistente IA local** para consultas de seguridad
 
-[Ver repositorio](#)
+[Ver repositorio](https://github.com/FranciscoGH/CyberAudit-Pro)
 
 ### 2. ChatBox - Entorno Seguro de IA Local
 Interfaz conversacional tipo ChatGPT para ejecutar modelos de IA de forma local:
@@ -39,7 +39,7 @@ Aplicación web para control de inventario y operaciones del negocio:
 - ⚡ Automatización de procesos operativos
 - 📈 Optimización de tiempos de entrega
 
-[Ver repositorio](#)
+[Ver repositorio](https://github.com/FranciscoGH/InventarioApp)
 
 ## 🎯 Intereses
 - Inteligencia Artificial Responsable
@@ -48,8 +48,9 @@ Aplicación web para control de inventario y operaciones del negocio:
 - Proyectos de código abierto
 
 ## 📬 Conecta conmigo
-- 📧 crjose92@gmail.com
-- 🔗 [Ver repositorio](https://www.linkedin.com/in/jose-francisco-gomez-herrera-436b9794/)
+- 📧 [E-mail](crjose92@gmail.com)
+- 🔗 [Linkedin](https://www.linkedin.com/in/jose-francisco-gomez-herrera-436b9794/)
+  
 
 ---
 *"El mejor código es el que resuelve un problema real"*
