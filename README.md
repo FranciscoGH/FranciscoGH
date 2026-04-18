@@ -49,7 +49,7 @@ Aplicación web para control de inventario y operaciones del negocio:
 
 ## 📬 Conecta conmigo
 - 📧 [E-mail](crjose92@gmail.com)
-- 🔗 [Linkedin](https://www.linkedin.com/in/jose-francisco-gomez-herrera-436b9794/)
+- 🔗 [Linkedin](https://www.linkedin.com/in/franciscogh-/)
   
 
 ---
