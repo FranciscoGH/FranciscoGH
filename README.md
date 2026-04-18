@@ -48,8 +48,8 @@ Aplicación web para control de inventario y operaciones del negocio:
 - Proyectos de código abierto
 
 ## 📬 Conecta conmigo
-- 📧 [Tu email aquí]
-- 🔗 Linkedin: https://www.linkedin.com/in/jose-francisco-gomez-herrera-436b9794/
+- 📧 crjose92@gmail.com
+- 🔗 https://www.linkedin.com/in/jose-francisco-gomez-herrera-436b9794/
 
 ---
 *"El mejor código es el que resuelve un problema real"*
