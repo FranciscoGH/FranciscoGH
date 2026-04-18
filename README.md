@@ -58,7 +58,7 @@ Los procesos de auditoría son fragmentados y requieren múltiples herramientas.
 **Tecnologías:** Python, Nmap, IA Local, CVE API  
 **Estado:** En desarrollo activo
 
-[Ver repositorio](https://github.com/FranciscoGH/CyberAudit-Pro) ← *Aquí va el enlace a tu repo*
+[Ver repositorio](https://github.com/FranciscoGH/CyberAudit-Pro)
 
 ---
 
@@ -119,10 +119,10 @@ Manejaba un negocio sin herramientas de software. Identificar esta brecha y cons
 
 ## 🤝 Conecta conmigo
 
-- 📧 [**Email:**](crjose92@gmail.com)
+- 📧 [**Email:**] crjose92@gmail.com
 - 🔗 [**LinkedIn:**](https://www.linkedin.com/in/franciscogh-/)
 - 🐙 **GitHub:** Estás aquí 👈
-- 💼 [**Portafolio:**](https://tu-sitio-web.com) *(opcional)
+- 💼 [**Portafolio:**](https://tu-sitio-web.com) *(opcional)*
 
 ---
 
