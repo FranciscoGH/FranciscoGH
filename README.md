@@ -58,7 +58,7 @@ Los procesos de auditoría son fragmentados y requieren múltiples herramientas.
 **Tecnologías:** Python, Nmap, IA Local, CVE API  
 **Estado:** En desarrollo activo
 
-[Ver repositorio](#) ← *Aquí va el enlace a tu repo*
+[Ver repositorio](https://github.com/FranciscoGH/CyberAudit-Pro) ← *Aquí va el enlace a tu repo*
 
 ---
 
@@ -97,7 +97,7 @@ Manejaba un negocio sin herramientas de software. Identificar esta brecha y cons
 
 **Tecnologías:** Python, Bases de datos
 
-[Ver repositorio](#)
+[Ver repositorio](https://github.com/FranciscoGH/InventarioApp)
 
 ---
 
