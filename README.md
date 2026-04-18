@@ -23,7 +23,7 @@ Una aplicación integral para gestionar proyectos de auditoría con:
 - 🔎 **Buscador de vulnerabilidades** con información de CVEs
 - 🤖 **Asistente IA local** para consultas de seguridad
 
-[Ver repositorio](#) ← *aquí pones el enlace si tienes*
+[Ver repositorio](#)
 
 ### 2. ChatBox - Entorno Seguro de IA Local
 Interfaz conversacional tipo ChatGPT para ejecutar modelos de IA de forma local:
@@ -49,7 +49,7 @@ Aplicación web para control de inventario y operaciones del negocio:
 
 ## 📬 Conecta conmigo
 - 📧 [Tu email aquí]
-- 🔗 [Tu LinkedIn aquí]
+- 🔗 Linkedin: https://www.linkedin.com/in/jose-francisco-gomez-herrera-436b9794/
 
 ---
 *"El mejor código es el que resuelve un problema real"*
